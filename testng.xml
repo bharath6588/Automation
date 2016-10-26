@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Main Test Suite" verbose="2">
+<suite name="Test Suite" verbose="2">
 
-    <test name="TestNG Test Group">
+    <test name="Login Test">
         <!-- <classes>
-        <class name="com.test.TestA"/>
+			<class name="com.github.LoginTest"/>
         </classes> -->
         <packages>
-        <package name="com.github"/>
+			<package name="com.github"/>
         </packages>
     </test>
     
