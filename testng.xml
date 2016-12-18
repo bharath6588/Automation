@@ -3,12 +3,12 @@
 <suite name="Test Suite" verbose="2">
 
     <test name="Login Test">
-        <!-- <classes>
+        <classes>
 			<class name="com.github.LoginTest"/>
-        </classes> -->
-        <packages>
+        </classes> 
+        <!-- <packages>
 			<package name="com.github"/>
-        </packages>
+        </packages>-->
     </test>
     
 </suite>
