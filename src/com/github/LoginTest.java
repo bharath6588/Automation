@@ -104,7 +104,7 @@ public class LoginTest {
 		Object obj[][] = new Object[1][3];
 		
 		//Incorrect data
-		obj[0][0] = "sam123am123";
+		obj[0][0] = "sam123";
 		obj[0][1] = "147852bh";
 		obj[0][2] = "Incorrect username or password.";
 		
